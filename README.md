@@ -1,8 +1,10 @@
 after cloning, etc., the repo,
-to run it:
+to run it in a development environment:
+
 ```
 npm install 
 node server/server.js
-npm start
+npm startDev
 ```
 the app can be accessed in a browser at localhost:3000
+
