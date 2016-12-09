@@ -20,3 +20,5 @@ the app can be accessed in a browser at localhost:3000
 
 The deployed app is at https://zumblr.herokuapp.com/
 
+The app is built with React, Express, and Bootstrap 4.
+
