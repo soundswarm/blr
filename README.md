@@ -18,3 +18,5 @@ npm run startDev
 
 the app can be accessed in a browser at localhost:3000
 
+The deployed app is at https://zumblr.herokuapp.com/
+
